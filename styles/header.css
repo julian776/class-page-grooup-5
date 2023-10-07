@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    height: 80px;
+    width: 100vw;
+    background-color: #ECEFF4;
+    border-style: solid 3px #E5E9F0;
+}
+
+.header-icons {
+    position: absolute;
+    right: 10px;
+}

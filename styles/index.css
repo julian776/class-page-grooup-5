@@ -1,0 +1,8 @@
+@import './titles.css';
+@import './header.css';
+@import './temas.css';
+
+body {
+    margin: 0;
+    background-color: #4C566A;
+}
