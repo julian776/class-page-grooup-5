@@ -9,7 +9,17 @@
     border-style: solid 3px #E5E9F0;
 }
 
-.header-icons {
+.header__icons {
     position: absolute;
     right: 10px;
+}
+
+.header__titles {
+    color: #8FBCBB;
+    font-size: 300%;
+}
+
+.header__link {
+    color:red;
+    margin-top: 50px;
 }
