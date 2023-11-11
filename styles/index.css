@@ -1,6 +1,7 @@
 @import './titles.css';
 @import './header.css';
 @import './temas.css';
+@import './code.css';
 
 body {
     margin: 0;
